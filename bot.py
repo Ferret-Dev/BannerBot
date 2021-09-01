@@ -143,7 +143,7 @@ class Commands(commands.Cog):
             colour=discord.Colour.green()
         )
         fields = [("`help`", "Your looking at this command.\n**aliases:** `hlp`, `h`", False),
-                ("`userinfo`", "Generates a banner from your discord pfp!\n**aliases:** `bnr`, `b`", False)]
+                ("`banner`", "Generates a banner from your discord pfp!\n**aliases:** `bnr`, `b`", False)]
 
         page_2.set_footer(
             text=f"Handy tip! Put a handy tip here lol."
