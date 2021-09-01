@@ -3,3 +3,5 @@ discord==1.7.3
 numpy==1.21.2
 Pillow==8.3.1
 python-dotenv==0.19.0
+quart==0.15.1
+quart_discord==2.1.4
